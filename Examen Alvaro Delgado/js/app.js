@@ -49,9 +49,6 @@ fetch('https://raw.githubusercontent.com/FRomero999/ExamenDIW2022/main/rutas_arq
             direccion.textContent = data[i].properties.direccion;
            
           
-           
-           
-           
             tbody.appendChild(clone);
 
             
